@@ -1,4 +1,4 @@
-# Stunning Product App with Flutter and Dribbble Design
+# Stunning Product App with Flutter and Instagram Design
 
 
 💻 Designer - [sinthaistudio](https://www.instagram.com/p/CaEOYjJFDKQ/)
